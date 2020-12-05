@@ -9,6 +9,7 @@
 <link rel="stylesheet" media="screen, print" href="css/app.bundle.css">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 </head>
+
 <body class="mod-bg-1 ">
         <!-- DOC: script to save and load page settings -->
         <script>
